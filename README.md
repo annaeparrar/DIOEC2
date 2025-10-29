@@ -1,4 +1,8 @@
 # Desafío DIO: Gestión de Instancias EC2 en AWS 
+# Anna Elizabeth Parra Rausseo
+# https://github.com/annaeparrar/
+
+> **Status:** Concluído
 
 ##  Objetivo del Desafío
 
